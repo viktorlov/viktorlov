@@ -5,8 +5,6 @@
 
 - 💬 Ask me about **Excel, SQL & Python.**
 
-- 📫 How to reach me **i@vialor.ru**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://stackoverflow.com/users/20036375" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20036375" height="30" width="40" /></a>
