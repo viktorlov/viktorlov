@@ -1,5 +1,5 @@
-<h1 align="center">👋 Hi! I'm Viktor A Orlov. 👋</h1>
-<h3 align="center">Householder and procrastinator ©️</h3>
+<h1 align="left">Hi! I'm Viktor A Orlov.</h1>
+<h3 align="left">Householder and procrastinator ©️</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=viktorlov&label=Profile%20views&color=0e75b6&style=flat" alt="viktorlov" /> </p>
 
